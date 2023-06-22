@@ -1,4 +1,4 @@
-                                               Footwear Sales Dashboard
+                                               FOOTWEAR SALES DASHBOARD
 
 This Excel dashboard provides an overview of footwear sales data. It includes pivot tables, charts and graphs that visualize the sales performance of different products, different year, regions and sales channels. 
 
@@ -34,3 +34,5 @@ Benefits:
 Requirements:
 
     •  Microsoft Excel
+
+![image](https://github.com/ManojChigateri/Dashboard/assets/84317431/988704ef-8e1d-408c-9ef6-fe2b90ec368d)
